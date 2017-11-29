@@ -1,0 +1,9 @@
+E:\WindowsFormsApp6\WindowsFormsApp6\bin\Release\WindowsFormsApp6.exe.config
+E:\WindowsFormsApp6\WindowsFormsApp6\bin\Release\WindowsFormsApp6.exe
+E:\WindowsFormsApp6\WindowsFormsApp6\bin\Release\WindowsFormsApp6.pdb
+E:\WindowsFormsApp6\WindowsFormsApp6\obj\Release\WindowsFormsApp6.csprojResolveAssemblyReference.cache
+E:\WindowsFormsApp6\WindowsFormsApp6\obj\Release\WindowsFormsApp6.Form1.resources
+E:\WindowsFormsApp6\WindowsFormsApp6\obj\Release\WindowsFormsApp6.Properties.Resources.resources
+E:\WindowsFormsApp6\WindowsFormsApp6\obj\Release\WindowsFormsApp6.csproj.GenerateResource.Cache
+E:\WindowsFormsApp6\WindowsFormsApp6\obj\Release\WindowsFormsApp6.exe
+E:\WindowsFormsApp6\WindowsFormsApp6\obj\Release\WindowsFormsApp6.pdb
