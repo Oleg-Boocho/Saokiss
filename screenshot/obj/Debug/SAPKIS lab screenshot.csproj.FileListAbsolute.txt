@@ -1,0 +1,40 @@
+C:\Users\Дмитрий\source\repos\SAPKIS lab screenshot\bin\Debug\SAPKIS lab screenshot.exe.config
+C:\Users\Дмитрий\source\repos\SAPKIS lab screenshot\bin\Debug\SAPKIS lab screenshot.exe
+C:\Users\Дмитрий\source\repos\SAPKIS lab screenshot\bin\Debug\SAPKIS lab screenshot.pdb
+C:\Users\Дмитрий\source\repos\SAPKIS lab screenshot\obj\Debug\SAPKIS lab screenshot.csprojResolveAssemblyReference.cache
+C:\Users\Дмитрий\source\repos\SAPKIS lab screenshot\obj\Debug\SAPKIS_lab_screenshot.Form1.resources
+C:\Users\Дмитрий\source\repos\SAPKIS lab screenshot\obj\Debug\SAPKIS_lab_screenshot.Properties.Resources.resources
+C:\Users\Дмитрий\source\repos\SAPKIS lab screenshot\obj\Debug\SAPKIS lab screenshot.csproj.GenerateResource.Cache
+C:\Users\Дмитрий\source\repos\SAPKIS lab screenshot\obj\Debug\SAPKIS lab screenshot.csproj.CoreCompileInputs.cache
+C:\Users\Дмитрий\source\repos\SAPKIS lab screenshot\obj\Debug\SAPKIS lab screenshot.exe
+C:\Users\Дмитрий\source\repos\SAPKIS lab screenshot\obj\Debug\SAPKIS lab screenshot.pdb
+F:\SAPKIS lab screenshot\bin\Debug\SAPKIS lab screenshot.exe.config
+F:\SAPKIS lab screenshot\bin\Debug\SAPKIS lab screenshot.exe
+F:\SAPKIS lab screenshot\bin\Debug\SAPKIS lab screenshot.pdb
+F:\SAPKIS lab screenshot\obj\Debug\SAPKIS lab screenshot.csprojResolveAssemblyReference.cache
+F:\SAPKIS lab screenshot\obj\Debug\SAPKIS_lab_screenshot.Form1.resources
+F:\SAPKIS lab screenshot\obj\Debug\SAPKIS_lab_screenshot.Properties.Resources.resources
+F:\SAPKIS lab screenshot\obj\Debug\SAPKIS lab screenshot.csproj.GenerateResource.Cache
+F:\SAPKIS lab screenshot\obj\Debug\SAPKIS lab screenshot.csproj.CoreCompileInputs.cache
+F:\SAPKIS lab screenshot\obj\Debug\SAPKIS lab screenshot.exe
+F:\SAPKIS lab screenshot\obj\Debug\SAPKIS lab screenshot.pdb
+D:\screenshot\bin\Debug\SAPKIS lab screenshot.exe.config
+D:\screenshot\bin\Debug\SAPKIS lab screenshot.exe
+D:\screenshot\bin\Debug\SAPKIS lab screenshot.pdb
+D:\screenshot\obj\Debug\SAPKIS lab screenshot.csprojResolveAssemblyReference.cache
+D:\screenshot\obj\Debug\SAPKIS_lab_screenshot.Form1.resources
+D:\screenshot\obj\Debug\SAPKIS_lab_screenshot.Properties.Resources.resources
+D:\screenshot\obj\Debug\SAPKIS lab screenshot.csproj.GenerateResource.Cache
+D:\screenshot\obj\Debug\SAPKIS lab screenshot.csproj.CoreCompileInputs.cache
+D:\screenshot\obj\Debug\SAPKIS lab screenshot.exe
+D:\screenshot\obj\Debug\SAPKIS lab screenshot.pdb
+F:\Сапкис\screenshot\bin\Debug\SAPKIS lab screenshot.exe.config
+F:\Сапкис\screenshot\bin\Debug\SAPKIS lab screenshot.exe
+F:\Сапкис\screenshot\bin\Debug\SAPKIS lab screenshot.pdb
+F:\Сапкис\screenshot\obj\Debug\SAPKIS lab screenshot.csprojResolveAssemblyReference.cache
+F:\Сапкис\screenshot\obj\Debug\SAPKIS_lab_screenshot.Form1.resources
+F:\Сапкис\screenshot\obj\Debug\SAPKIS_lab_screenshot.Properties.Resources.resources
+F:\Сапкис\screenshot\obj\Debug\SAPKIS lab screenshot.csproj.GenerateResource.Cache
+F:\Сапкис\screenshot\obj\Debug\SAPKIS lab screenshot.csproj.CoreCompileInputs.cache
+F:\Сапкис\screenshot\obj\Debug\SAPKIS lab screenshot.exe
+F:\Сапкис\screenshot\obj\Debug\SAPKIS lab screenshot.pdb
